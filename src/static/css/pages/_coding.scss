@@ -1,0 +1,77 @@
+// Coding page (/coding)
+
+.coding-horizontal-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin: 20px 0;
+    
+  }
+  
+  .coding-horizontal-card {
+    display: flex;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 18px;
+    background: #f4f4f4;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .coding-horizontal-card:hover {
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .coding-info {
+    flex: 1;
+    text-align: left;
+  }
+  
+  .coding-info h3 {
+    font-size: 16px;
+    margin-bottom: 5px;
+    color: #3c3b3b;
+  }
+  
+  .coding-info p {
+    font-size: 14px;
+    color: #777;  // Slightly lighter gray for better readability
+    margin-bottom: 12px;
+    line-height: 1.6;  // Improved line spacing for better readability
+    text-align: justify; // Align text to both sides for a neat block
+    word-wrap: break-word; // Ensure long words wrap and don't overflow
+    letter-spacing: 3px; // Adds subtle spacing between characters for clarity
+    font-weight: 400; // Normal weight for text
+    text-transform: none; // Keep the text as is (no uppercase conversion)
+  }
+  
+  .coding-link {
+    display: inline-block;
+    padding: 8px 16px;
+    appearance: none;
+    transition: background-color 0.2s ease, box-shadow 0.2s ease, color 0.2s ease;
+    background-color: transparent;
+    border: 0;
+    box-shadow: inset 0 0 0 1px rgba(160, 160, 160, 0.3);
+    color: #3c3b3b;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Raleway", Helvetica, sans-serif;
+    font-size: 0.5em;
+    font-weight: 800;
+    height: 4.8125em;
+    letter-spacing: 0.25em;
+    line-height: 4.8125em;
+    padding: 0 2.5em;
+    text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+  
+  .coding-link:hover {
+    box-shadow: inset 0 0 0 1px #2e59ba;
+    color: #2e59ba;
+  }
+  
+  
