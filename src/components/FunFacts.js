@@ -7,7 +7,7 @@ const FunFacts = () => {
   const [quotes, setQuotes] = useState('');
   const [loading, setLoading] = useState(true);
 
-  const apiKey = 'mMvYTtVgquFtnzuQ6QD2sw==4idCD302fcsqmTvm';
+  const apiKey = process.env.API_KEY;
 
   useEffect(() => {
     const fetchData = async () => {
