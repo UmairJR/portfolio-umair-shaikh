@@ -19,7 +19,7 @@ const Coding = lazy(() => import('./pages/Coding'));
 const Stats = lazy(() => import('./pages/Stats'));
 
 const App = () => (
-  <BrowserRouter basename="/">
+  <BrowserRouter>
     <Suspense fallback={<Main />}>
       <Routes>
         <Route path="/" element={<Index />} />
