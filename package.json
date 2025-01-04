@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-ujr",
   "version": "4.0.0",
-  "homepage": "https://umairjr.github.io/",
+  "homepage": "https://umairjr.github.io/portfolio-site-ujr/",
   "license": "MIT",
   "engines": {
     "node": ">=16.x"
