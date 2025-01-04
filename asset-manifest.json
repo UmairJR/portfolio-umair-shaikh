@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://umairjr.github.io/static/css/main.1f16240c.css",
-    "main.js": "https://umairjr.github.io/static/js/main.83404be3.js",
+    "main.js": "https://umairjr.github.io/static/js/main.2852c273.js",
     "static/js/818.f5bd63e0.chunk.js": "https://umairjr.github.io/static/js/818.f5bd63e0.chunk.js",
     "static/js/996.3ff71751.chunk.js": "https://umairjr.github.io/static/js/996.3ff71751.chunk.js",
     "static/js/807.e1bc8576.chunk.js": "https://umairjr.github.io/static/js/807.e1bc8576.chunk.js",
@@ -16,7 +16,7 @@
     "static/media/about.md": "https://umairjr.github.io/static/media/about.15f0cc1d9f9ed84ad128.md",
     "index.html": "https://umairjr.github.io/index.html",
     "main.1f16240c.css.map": "https://umairjr.github.io/static/css/main.1f16240c.css.map",
-    "main.83404be3.js.map": "https://umairjr.github.io/static/js/main.83404be3.js.map",
+    "main.2852c273.js.map": "https://umairjr.github.io/static/js/main.2852c273.js.map",
     "818.f5bd63e0.chunk.js.map": "https://umairjr.github.io/static/js/818.f5bd63e0.chunk.js.map",
     "996.3ff71751.chunk.js.map": "https://umairjr.github.io/static/js/996.3ff71751.chunk.js.map",
     "807.e1bc8576.chunk.js.map": "https://umairjr.github.io/static/js/807.e1bc8576.chunk.js.map",
@@ -30,6 +30,6 @@
   },
   "entrypoints": [
     "static/css/main.1f16240c.css",
-    "static/js/main.83404be3.js"
+    "static/js/main.2852c273.js"
   ]
 }
