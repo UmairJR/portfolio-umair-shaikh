@@ -28,7 +28,7 @@ const SideBar = () => (
         <a href="https://ternaengg.ac.in/">Computer Science</a> graduate. I&apos;m a tech enthusiast,
         AI explorer, and blockchain tinkerer with a passion for creating cool and practical stuff.
       </p>
-      <p>
+      <p className="compact">
         When I&apos;m not tinkering with tech, I&apos;m either <a href="https://cerulean-pencil-4e1.notion.site/10a6f82c9a0f80e1be54d69d1b89add9?v=10a6f82c9a0f811a9e14000c842fa305" rel="noreferrer" target="_blank">reading</a>, 
         playing football, or watching the latest in <a href="https://in.ign.com/attack-on-titan-1/195015/lists/the-15-best-shonen-anime-series-of-all-time" rel="noreferrer" target="_blank">shonen anime.</a>
       </p>

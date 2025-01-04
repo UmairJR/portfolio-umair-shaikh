@@ -29,7 +29,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Neymar JR (He's the GOAT. Fight me.)
 - Anime
 - Time traveling movies
-- Webseries
+- Netflix
 - Space
 - [Books](https://cerulean-pencil-4e1.notion.site/10a6f82c9a0f80e1be54d69d1b89add9?v=10a6f82c9a0f811a9e14000c842fa305)
 - Traveling
@@ -60,9 +60,9 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I Dream Of
 
+- Getting lost in the streets of Japan, discovering hidden gems and the best ramen spots.
 - Finding meaning in the chaos of life.
 - You not judging me when I spend hours tinkering with new tech.
-- Getting lost in the streets of Japan, discovering hidden gems and the best ramen spots.
 - Playing with my top 20 best football players in the biggest stadium in the world and scoring the winning penalty.
 - Treating every individual with genuine kindness and respect.
 - Staying curious.
