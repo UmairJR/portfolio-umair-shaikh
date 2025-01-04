@@ -3,7 +3,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Main from './layouts/Main'; // fallback for lazy pages
 import './static/css/main.scss'; // All of our styles
 
-const { PUBLIC_URL } = process.env;
+// const { PUBLIC_URL } = process.env;
 // const PUBLIC_URL = 'https://umairjr.github.io/portfolio-umair-shaikh/';
 
 // Every route - we lazy load so that each page can be chunked
@@ -19,7 +19,7 @@ const Coding = lazy(() => import('./pages/Coding'));
 const Stats = lazy(() => import('./pages/Stats'));
 
 const App = () => (
-  <BrowserRouter basename={PUBLIC_URL}>
+  <BrowserRouter basename="/">
     <Suspense fallback={<Main />}>
       <Routes>
         <Route path="/" element={<Index />} />
