@@ -1,7 +1,7 @@
 {
   "name": "portfolio-site-ujr",
   "version": "4.0.0",
-  "homepage": "https://umairjr.github.io/portfolio-site-ujr/",
+  "homepage": "https://umairjr.github.io/portfolio-umair-shaikh/",
   "license": "MIT",
   "engines": {
     "node": ">=16.x"
@@ -11,8 +11,7 @@
     "build": "react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build",
-    "start": "react-scripts start",
-    "test": "npx jest"
+    "start": "react-scripts start"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
