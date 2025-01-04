@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /* eslint-disable react/jsx-indent */
 import React, { useState, useEffect } from 'react';
 import quote from '../data/quotes';
@@ -7,12 +8,12 @@ const FunFacts = () => {
   const [quotes, setQuotes] = useState('');
   const [loading, setLoading] = useState(true);
 
-  const apiKey = process.env.API_KEY;
+  const { REACT_APP_API_KEY } = process.env;
 
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const factResponse = await fetch('https://api.api-ninjas.com/v1/facts', { headers: { 'X-Api-Key': apiKey } });
+        const factResponse = await fetch('https://api.api-ninjas.com/v1/facts', { headers: { 'X-Api-Key': REACT_APP_API_KEY } });
         const factData = await factResponse.json();
         setFact(factData[0]?.fact || 'No fact available');
         const quotesResponse = Math.floor(Math.random() * quote.length);
