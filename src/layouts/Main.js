@@ -26,6 +26,17 @@ const Main = (props) => (
       <meta name="twitter:title" content={props.title} />
       <meta name="twitter:description" content={props.description} />
       <meta name="twitter:image" content="https://umairshaikh.in/images/me4.jpg" />
+      <script type="application/ld+json">
+        {`
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "${props.title}",
+        "description": "${props.description}",
+        "image": "https://umairshaikh.in/static/images/social-share.jpg"
+      }
+    `}
+      </script>
     </Helmet>
     <div id="wrapper">
       <Navigation />
