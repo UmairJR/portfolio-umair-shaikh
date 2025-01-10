@@ -18,6 +18,14 @@ const Main = (props) => (
     >
       {props.title && <title>{props.title}</title>}
       <meta name="description" content={props.description} />
+      <meta property="og:title" content={props.title} />
+      <meta property="og:description" content={props.description || 'Welcome to Umair Shaikh\'s personal website showcasing projects, skills, and more.'} />
+      <meta property="og:image" content="https://umairshaikh.in/images/me4.jpg" />
+      <meta property="og:type" content="website" />
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:title" content={props.title} />
+      <meta name="twitter:description" content={props.description} />
+      <meta name="twitter:image" content="https://umairshaikh.in/images/me4.jpg" />
     </Helmet>
     <div id="wrapper">
       <Navigation />

@@ -10,7 +10,8 @@ import FunFacts from "../components/FunFacts";
 
 const Index = () => (
   <Main
-    description="Umair Shaikh's personal website"
+    title="Umair Shaikh"
+    description="Welcome to Umair Shaikh's personal website showcasing projects, skills, and more."
   >
     <article className="post" id="index">
       <header>
