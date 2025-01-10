@@ -33,7 +33,7 @@ const Main = (props) => (
         "@type": "WebPage",
         "name": "${props.title}",
         "description": "${props.description}",
-        "image": "https://umairshaikh.in/static/images/social-share.jpg"
+        "image": "https://umairshaikh.in/images/me4.jpg"
       }
     `}
       </script>
