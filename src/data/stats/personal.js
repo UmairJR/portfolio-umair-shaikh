@@ -25,19 +25,19 @@ const data = [
     value: <Age />,
   },
   {
-    key: 'countries',
-    label: 'Countries visited',
-    value: 3,
-  },
-  {
-    key: 'animes',
-    label: 'Animes watched',
-    value: 112,
+    key: 'repository',
+    label: 'Projects',
+    value: 27,
   },
   {
     key: 'hackathons',
     label: 'Hackathons participated',
     value: 4,
+  },
+  {
+    key: 'animes',
+    label: 'Animes watched',
+    value: 112,
   },
   {
     key: 'novel',
@@ -60,11 +60,6 @@ const data = [
     key: 'typing-speed',
     label: 'Typing speed',
     value: '~70 WPM',
-  },
-  {
-    key: 'repository',
-    label: 'Projects',
-    value: 27,
   },
   {
     key: 'location',

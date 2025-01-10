@@ -11,6 +11,7 @@ const Stats = () => {
       'https://api.github.com/repos/umairjr/portfolio-umair-shaikh',
     );
     const resData = await res.json();
+    console.log(resData);
     setResponseData(
       initialData.map((field) => ({
         ...field,

@@ -12,7 +12,7 @@ const data = [
   },
   {
     label: 'Number of people watching this repository',
-    key: 'subscribers_count',
+    key: 'watchers_count',
     link: 'https://github.com/UmairJR/portfolio-umair-shaikh/stargazers',
   },
   {
@@ -24,11 +24,11 @@ const data = [
     label: 'Number of spoons',
     value: '0',
   },
-  {
-    label: 'Open github issues',
-    key: 'open_issues_count',
-    link: 'https://github.com/UmairJR/portfolio-umair-shaikh/issues',
-  },
+  // {
+  //   label: 'Open github issues',
+  //   key: 'open_issues_count',
+  //   link: 'https://github.com/UmairJR/portfolio-umair-shaikh/issues',
+  // },
   {
     label: 'Last updated at',
     key: 'pushed_at',
