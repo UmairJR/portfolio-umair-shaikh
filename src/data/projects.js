@@ -22,6 +22,17 @@ const data = [
       + 'and integrating assets as NFTs for secure and transparent transactions. ',
   },
   {
+    title: 'SmartLeave AI (AI Agent)',
+    subtitle: 'Built AI Agent for a use case.',
+    link: 'https://smart-leave-ai.streamlit.app/',
+    image: '/images/projects/SmartLeaveAI.png',
+    date: '2025-03-05',
+    desc:
+    'Built an AI agent using LangChain that understands HR queries'
+    + ', verifies leave balance via SQL and APIs, checks policy documents and calendars'
+    + ', and makes justified leave decisions.',
+  },
+  {
     title: 'AI tools',
     subtitle: 'Built for using AI for my personal use cases.',
     link: 'https://langchain-tools-ujr.streamlit.app/',
