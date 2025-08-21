@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkportfolio_site_ujr=self.webpackChunkportfolio_site_ujr||[]).push([[27],{27:(e,t,s)=>{e.exports=s.p+"static/media/about.a0de6b9d91b641529e57.md"}}]);
