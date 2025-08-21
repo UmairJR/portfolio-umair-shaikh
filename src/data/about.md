@@ -8,7 +8,7 @@ or (politely) argue about who is better, Messi or Ronaldo?<br/> I'm your man!
 
 # Some History
 
-- My parents bought a laptop in 2006 when I was 3, while we were living in [Saudi Arabia](). It was an old Dell that ran Windows XP. Figuring out how to mute myself before my grandparents started asking about my grades on video calls (yes, I was that tech-savvy even as a kid).
+- My parents bought a laptop in 2006 when I was 3, while we were living in [Saudi Arabia](). It was an old Dell that ran Windows XP. Figuring out how to mute myself before my grandparents started asking about my grades on video call.
 - At 6, I remember bragging to my friends about having my Yahoo email ID.
 - At 7, I discovered the mini-games hidden in Microsoft Office. I also beat Minesweeper on expert for the first time.
 - At 13, I discovered HTML and made my first portfolio website, it was about myself because, well, I had no clients. Later, CSS taught me what not to do with colors.
@@ -20,16 +20,17 @@ or (politely) argue about who is better, Messi or Ronaldo?<br/> I'm your man!
 - At 19, I joined bachelor's college with big dreams of landing a job at Microsoft or Google. Spoiler alert: Didn’t happen.
 - At 20, I got serious about life (finally). Switched dreams to pursuing a master’s degree in Computer Science in Germany. 
 - At 21, I graduated and somehow managed to publish my first academic paper.
+- At 22, I got admitted to the [University of Paderborn](https://www.uni-paderborn.de/en/university), [Germany](), packed my bags, and moved abroad, living away from my family for the first time.
 
 Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I Like
 
-- Football (I'll take on anyone!)
+- Football
 - Neymar JR 
 - Anime
-- Time traveling movies
-- Netflix
+- Movies (Horror, Time traveling)
+- Conspiracy theories
 - Space
 - [Books](https://cerulean-pencil-4e1.notion.site/10a6f82c9a0f80e1be54d69d1b89add9?v=10a6f82c9a0f811a9e14000c842fa305)
 - Traveling
@@ -37,6 +38,7 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 - Winter
 - Coffee 
 - Gym
+
 
 # Travel Bucket List
 
@@ -54,14 +56,15 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 # Fun Facts
 
 - I can't locate every country on a map.
-- I invest in Stock market with terrible returns.
+- I can’t cook.
+- I always forget to switch off the lights.
 - I’ve been trying to make my gym sessions feel like a [Dragon Ball Z](https://en.wikipedia.org/wiki/Dragon_Ball_Z) training montage.
 - I started a book summary project just so I could “pretend” to read more books.
 - I added this page because many people complained that my site was just my resume.
 
 # I Dream Of
 
-- Getting lost in the streets of Japan, discovering hidden gems and the best ramen spots.
+- Getting lost in the streets of Japan.
 - You not judging me when I spend hours tinkering with new tech.
 - Playing with my top 20 best football players in the biggest stadium in the world and scoring the winning penalty.
 - Staying curious.
