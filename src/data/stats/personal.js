@@ -64,7 +64,7 @@ const data = [
   {
     key: 'location',
     label: 'Current city',
-    value: 'Mumbai, IN',
+    value: 'Paderborn, DE',
   },
 ];
 
